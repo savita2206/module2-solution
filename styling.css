@@ -7,14 +7,12 @@ body{
 	padding: 0;
 }
 p{
-	clear: right;
 	font-size: 14px;
 	width: 90%;
 	height: 150px;
 	margin: 0;
 	margin-right: 0;
 	padding: 0;
-	box-sizing: border-box;
 }
 section{
 	box-sizing: border-box;
@@ -36,9 +34,7 @@ h2{
 	height: 40px;
 	padding: 0;
 	border: 1px solid black;
-	float: right;
 	text-align: center;
-
 }
 
 #title1{
